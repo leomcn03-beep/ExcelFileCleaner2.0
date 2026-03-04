@@ -1,0 +1,8 @@
+First Name,Last Name,Email Address
+John,Doe,john@example.com
+Jane,Doe,jane@example.com
+Bad,Email,notanemail
+Dupe,User,john@example.com
+ Trailing , Space , spaced@example.com 
+Missing,At,missingat.com
+Empty,,

@@ -1,0 +1,25 @@
+# Environments
+venv/
+env/
+.venv/
+
+# Build artifacts
+__pycache__/
+build/
+dist/
+*.spec
+
+# C extensions
+*.so
+
+# Packages
+*.egg
+*.egg-info/
+.eggs/
+
+# IDEs
+.idea/
+.vscode/
+
+# Ignore large output CSV files, keep tiny test data
+cleaned_contacts.csv
